@@ -1,5 +1,3 @@
-## CODE CHALLENGES
-
 
 ### DESAFIO 1
 
