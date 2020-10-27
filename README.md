@@ -1,3 +1,13 @@
+## CODE CHALLENGES 🚀
+Fala Devs, beleza?
+
+Esse repo é um projeto que visa ajudá-lo a melhorar suas habilidades de codificação resolvendo pequenos ou grandes desafios diarios utilizando JS.
+
+Estou caminhando junto com vocês nessa jornada e as minhas soluções para cada um dos desafios sempre estaram aqui no repo também, fique avontade para consultar, julgar, criticar e propor novas formas de resolver o mesmo problema.
+
+Seja bem-vindo e vamos codar.
+
+
 ### DESAFIO 1
 
 Um cliente deseja ocultar todos os CPFs de uma longa cadeia de
