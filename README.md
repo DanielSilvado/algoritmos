@@ -1,11 +1,3 @@
-Fala Devs, beleza?
-
-Esse repo é um projeto que busca melhorar suas habilidades de codificação resolvendo pequenos ou grandes desafios diarios utilizando JS.
-Estou caminhando junto com vocês nessa jornada e as minhas soluções para cada um dos desafios sempre estaram aqui no repo também, fique avontade para consultar, julgar, criticar e propor novas formas de resolver o mesmo problema.
-
-Seja bem-vindo e vamos codar.
-
-
 ### DESAFIO 1
 
 Um cliente deseja ocultar todos os CPFs de uma longa cadeia de
@@ -26,7 +18,7 @@ A função deve retornar:
 solicitar o registro do imóvel adquirido de Sicrano, CPF xxx.”
 ```
 
-### QUESTÃO 2
+### DESAFIO 2
 
 Dado um array de números inteiros, retorne os índices dos
 dois números de forma que eles se somem a um alvo
@@ -45,7 +37,7 @@ Como nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
-### QUESTÃO III
+### DESAFIO III
 
 Digamos que você tenha um array para o qual o elemento i
 é o preço de uma determinada ação no dia i.
