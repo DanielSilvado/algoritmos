@@ -1,4 +1,4 @@
-### DESAFIO I
+### DESAFIO 1
 
 Um cliente deseja ocultar todos os CPFs de uma longa cadeia de
 caracteres. Escrever uma função PHP que receba uma cadeia de caracteres, e que
