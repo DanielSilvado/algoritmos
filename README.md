@@ -1,4 +1,4 @@
-## CODE CHALLENGES 🚀
+## CODE CHALLENGES
 Fala Devs, beleza?
 
 Esse repo é um projeto que visa ajudá-lo a melhorar suas habilidades de codificação resolvendo pequenos ou grandes desafios diarios utilizando JS.
