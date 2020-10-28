@@ -11,7 +11,7 @@ Use a hashtag #MyCodeChallenges para que possamos nos localizar.
 ### DESAFIO 1
 
 Um cliente deseja ocultar todos os CPFs de uma longa cadeia de
-caracteres. Escrever uma função PHP que receba uma cadeia de caracteres, e que
+caracteres. Escrever uma função Js que receba uma cadeia de caracteres, e que
 retorne outra cadeia de caracteres, substituindo todos os CPFs por xxx. 
 Por exemplo, para a entrada:
 
