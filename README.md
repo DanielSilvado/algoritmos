@@ -47,7 +47,7 @@ Como nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
-### DESAFIO III
+### DESAFIO 3
 
 Digamos que você tenha um array para o qual o elemento i
 é o preço de uma determinada ação no dia i.
