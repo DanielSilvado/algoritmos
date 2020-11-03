@@ -1,7 +1,7 @@
 ### DESAFIO 1
 
 Um cliente deseja ocultar todos os CPFs de uma longa cadeia de
-caracteres. Escrever uma função PHP que receba uma cadeia de caracteres, e que
+caracteres. Escrever uma função Js que receba uma cadeia de caracteres, e que
 retorne outra cadeia de caracteres, substituindo todos os CPFs por xxx. 
 Por exemplo, para a entrada:
 
@@ -24,11 +24,6 @@ Dado um array de números inteiros, retorne os índices dos
 dois números de forma que eles se somem a um alvo
 específico.
 
-Você pode assumir que cada entrada teria exatamente uma
-solução, e você não pode usar o mesmo elemento duas
-vezes.
-Um número é considerado feliz, se em algum ponto a soma de seus dígitos ao quadrado equivale a 1.
-
 ```
 EXEMPLO:
 
@@ -37,7 +32,7 @@ Como nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 ```
 
-### DESAFIO III
+### DESAFIO 3
 
 Digamos que você tenha um array para o qual o elemento i
 é o preço de uma determinada ação no dia i.
