@@ -29,7 +29,7 @@ EXEMPLO:
 
 Dado nums = [2, 7, 11, 15], alvo = 9,
 Como nums[0] + nums[1] = 2 + 7 = 9,
-return [0, 1].
+return [0, 1]
 ```
 
 ### DESAFIO 3
