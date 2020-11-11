@@ -9,3 +9,5 @@ const targetSearch = (arr, target) => {
   }
   return console.log("Valor não encontrado");
 }
+
+targetSearch([2,2,11,7], 9)
